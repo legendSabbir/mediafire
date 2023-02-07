@@ -1,0 +1,7 @@
+[build]
+    functions="functions"
+
+[[redirects]]
+    to="/.netlify/functions/mediafire/:splat"
+    from="/*"
+    status=200 
